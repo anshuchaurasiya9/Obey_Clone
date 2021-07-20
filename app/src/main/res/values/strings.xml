@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Obey clone</string>
+    <string name="DETAILS">Obey partner details</string>
+    <string name="List">List your Property with OBEY</string>
+    <string name="work">How its Work</string>
+    <string name="submit">SUBMIT</string>
+    <string name="email">Email</string>
+    <string name="mobile_number">mobile number</string>
+
+    //for sliders
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="desirable_spaces">desirable spaces</string>
+    <string name="slide1_doc2">obey provides great spaces as you ever wish </string>
+    <string name="good_care">good care</string>
+    <string name="slide2_doc2">Solutions of your problems is first priority of obey</string>
+    <string name="owners_hassles">Owners hassles</string>
+    <string name="slide3">obey will ensure that you live free without any pressure and arguments from owners side</string>
+    <string name="start" />
+    <string name="do_not_worry">do not worry</string>
+    <string name="slide4">do not worry about your cleaning and security, obey will give all necessaries</string>
+    <string name="there_for_you">There for you :-)</string>
+    <string name="slide5">we are there for you to give you best service</string>
+
+
+    //for List property
+
+    <string name="Explore">Explore</string>
+    <string name="salori">salori</string>
+    <string name="_3_5">3.5</string>
+
+    //for login
+
+    <string name="password">Password</string>
+    <string name="obey_rooms">
+        Obey rooms</string>
+    <string name="login">LOGIN</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="welcome_back">Welcome Back,</string>
+    <string name="signin">Already have an account? signIn here,</string>
+
+    //for signup
+
+    <string name="signup">signUp</string>
+    <string name="fullname">full Name</string>
+    <string name="location">location</string>
+    <string name="already_user">Already have Account?</string>
+    <string name="registered_emailid">Enter Registered Email Id below:</string>
+    <string name="terms_conditions">By clicking SignUp you agree all the Terms and Conditions.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="male">male</string>
+    <string name="transgender">Transgender</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="welcome">Obey Welcomes you,</string>
+    <string name="new_user">Are You New there? please register</string>
+
+    //For Dashboard
+    <string name="obey_drawer">Obey Rooms</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">home</string>
+    <string name="favorite">favorite</string>
+    <string name="privacy_policy">privacy_policy</string>
+    <string name="rate_app">rate_app</string>
+    <string name="profile">profile</string>
+    <string name="logout">logout</string>
+    <string name="communication">communication</string>
+    <string name="contact_us">contact_us</string>
+    <string name="share">share</string>
+    <string name="rate">rate</string>
+    <string name="yeah">TODO</string>
+    <string name="time_to_meet">Time to Meet</string>
+    <string name="residence_area">Residence area</string>
+    <string name="name">name</string>
+    <string name="todo">TODO</string>
+    <string name="imgdiscription">Imgdiscription</string>
+
+
+</resources>

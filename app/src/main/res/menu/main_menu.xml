@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/obey_home"
+            android:icon="@drawable/home_img"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/obey_favorite"
+            android:icon="@drawable/favorite_img"
+            android:title="@string/favorite" />
+
+        <item
+            android:id="@+id/obey_privacy"
+            android:icon="@drawable/privacy_img"
+            android:title="@string/privacy_policy" />
+
+
+
+        <item
+            android:id="@+id/obey_rate"
+            android:icon="@drawable/rate_img"
+            android:title="@string/rate_app" />
+
+    </group>
+
+
+    <item android:title="@string/profile">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/obey_login"
+                    android:title="@string/login" />
+
+                <item
+                    android:id="@+id/obey_profile"
+
+                    android:title="@string/profile" />
+
+                <item
+                    android:id="@+id/obey_logout"
+                    android:title="@string/logout" />
+
+            </group>
+        </menu>
+
+    </item>
+
+
+    <item android:title="@string/communication">
+
+        <menu>
+
+            <item
+                android:id="@+id/obey_contact"
+                android:icon="@drawable/contact_img"
+                android:title="@string/contact_us" />
+
+            <item
+                android:id="@+id/obey_share"
+                android:icon="@drawable/share_img"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/rate_img"
+                android:title="@string/rate" />
+
+
+        </menu>
+
+    </item>
+</menu>

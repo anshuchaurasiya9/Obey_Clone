@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white_greyish"
+    android:paddingStart="15dp">
+
+    <ImageView
+        android:layout_width="110dp"
+        android:layout_height="94dp"
+        android:layout_marginTop="25dp"
+        android:padding="10dp"
+        android:src="@mipmap/obey_logo" />
+
+    <TextView
+        android:layout_width="242dp"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="5dp"
+        android:text="@string/obey_drawer"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:padding="3dp"
+        app:fontFamily="@font/poppins" />
+
+</LinearLayout>
